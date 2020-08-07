@@ -1,0 +1,48 @@
+File: CashRegisterReport.txt
+This File contains information regarding Cash Register #0
+
+
+----------------------------------------
+     Register ID : 1
+----------------------------------------
+Current Register Session ID = 0
+Number of sales this session : -1
+
+Note: These output the same data. That means that
+   .clone() was sucessful in copying data??? Put in JUnit
+
+rs.getSalesInThisSession :
+------------------------------------------------
+          SaleID = 0   Time: 11:23:47.118
+------------------------------------------------
+Reciept index: 2
+Size of ItemArray =  25
+Number of Items on reciept: 9
+Number of Cashier inputs on Reciept: 3
+Total Price/Drawer amount: $65.65
+
+
+-------------------------------------------
+|   FOOD MART                             |
+|--- SALE #0 RECIEPT ---------------------|
+|      time of sale : 11:23:47.118        |
+|                                         |
+|                                         |
+|  2.0 DogFood @ $15.5 = 31.00
+| SubTotal = $31.0
+|-----------------------------------------|
+|                                         |
+|  1.0 Grapes @ $4.95 =  4.95
+| SubTotal = $35.95
+|-----------------------------------------|
+|                                         |
+|  6.0 Grapes @ $4.95 = 29.70
+| SubTotal = $65.65
+|-----------------------------------------|
+|-----------------------------------------|
+|                                         |
+|     Total = $65.65                     
+|                                         |
+|-----------------------------------------|
+
+

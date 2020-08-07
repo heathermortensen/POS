@@ -1,0 +1,20 @@
+File: CahierReportOutput.txt
+This File contains information regarding cashier HeatherM
+
+
+----------------------------------------
+Employee Name: Heather M
+----------------------------------------
+Employee login ID: mort0048
+Employee Session ID: 0
+Employee Sale ID: 0
+
+----------------------------------------
+Register ID = 1
+Register 1 has employee mort0048 currently logged on.
+Log on time: 13:19:12.079
+
+Current Session ID = 0 (Current Size of Session Array = 10)
+Current Sale ID = 0 (Current Size of Sales Array = 10)
+----------------------------------------
+

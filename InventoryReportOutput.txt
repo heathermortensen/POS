@@ -1,0 +1,11 @@
+
+INVENTORY 
+-------------- 
+ItemName  BarcodeID  SellPrice  NumItemsInInventory  buyPrice  supplier threshold 
+   apples    1          0.5       44.0                  0.2      Sysco       10
+   bananas   2          0.1       44.0                  0.05     Sysco       10
+   CatFood   3         12.95      20.0                  6.25     SuperValu    5
+   DogFood   4         15.5        7.0                 10.0      SuperValu    5
+   Eggplant  5          2.5       44.0                  0.2      Sysco        5
+   Flowers   6          4.5       44.0                  0.05     Sysco        5
+   Grapes    7          4.95      20.0                  6.25     SuperValu    5
