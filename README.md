@@ -16,15 +16,17 @@ How to run Point Of Sale System for the grocery store.
 | mort0048 | mK167B   |
 | zho1751  | 135B     |
 
-![](https://raw.githubusercontent.com/heathermortensen/POS/master/images/image_2_program_output.png)
+The cashier logs in. Then, selects from a menu of options.
+
+<img src="https://raw.githubusercontent.com/heathermortensen/POS/master/images/image_2_program_output.png" style="zoom:67%;" />
 
 
 
-Step 3.) The user can enter 5 to view the store inventory.
+Step 3.) The cashier enters 5 to view the store inventory.
 
 ![Store Inventory](https://raw.githubusercontent.com/heathermortensen/POS/master/images/image_3_program_output.png)
 
-Step 4.) The user can enter 1 to begin checking out a customer. 
+Step 4.) The cashier enters '1' to begin checking out a customer. 
 
 ​			Checkout proceeds by entering a cycle of barcode numbers and the quantity of each item.
 
@@ -39,3 +41,5 @@ Step 5.) Here we see that the initial sale of the day on register #1 has conclud
 ![conclusion of a sale](https://raw.githubusercontent.com/heathermortensen/POS/master/images/image_6_program_output.png)
 
 Step 6.) 
+
+![](https://github.com/heathermortensen/POS/blob/master/images/image_7_program_output.png)
