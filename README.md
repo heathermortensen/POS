@@ -20,12 +20,20 @@ How to run Point Of Sale System for the grocery store.
 
 
 
-Step 3.) The user can enter ___ to view the store inventory.
+Step 3.) The user can enter 5 to view the store inventory.
 
+![Store Inventory](https://raw.githubusercontent.com/heathermortensen/POS/master/images/image_3_program_output.png)
 
+Step 4.) The user can enter 1 to begin checking out a customer. 
 
-Step 4.) The user can enter ___ to begin checking out a customer.
+​			Checkout proceeds by entering a cycle of barcode numbers and the quantity of each item.
 
-Step 5.) Checkout proceeds by entering a cycle of barcode numbers, followed by the quantity of each item checked out.
+![](https://raw.githubusercontent.com/heathermortensen/POS/master/images/image_4_program_output.png)
+
+Step 5.) Here we see that the initial sale of the day on register #1 has concluded when the cashier enters 'N'.
+
+![](https://raw.githubusercontent.com/heathermortensen/POS/master/images/image_5_program_output.png)
 
 Step 6.) 
+
+![]()
