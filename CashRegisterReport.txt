@@ -13,35 +13,39 @@ Note: These output the same data. That means that
 
 rs.getSalesInThisSession :
 ------------------------------------------------
-          SaleID = 0   Time: 11:23:47.118
+          SaleID = 0   Time: 00:39:28.892
 ------------------------------------------------
-Reciept index: 2
+Reciept index: 3
 Size of ItemArray =  25
-Number of Items on reciept: 9
-Number of Cashier inputs on Reciept: 3
-Total Price/Drawer amount: $65.65
+Number of Items on reciept: 8
+Number of Cashier inputs on Reciept: 4
+Total Price/Drawer amount: $40.8
 
 
 -------------------------------------------
 |   FOOD MART                             |
 |--- SALE #0 RECIEPT ---------------------|
-|      time of sale : 11:23:47.118        |
+|      time of sale : 00:39:28.892        |
 |                                         |
+|                                         |
+|  3.0 bananas @ $0.1 =  0.30
+| SubTotal = $0.30000000000000004
+|-----------------------------------------|
+|                                         |
+|  2.0 Eggplant @ $2.5 =  5.00
+| SubTotal = $5.3
+|-----------------------------------------|
 |                                         |
 |  2.0 DogFood @ $15.5 = 31.00
-| SubTotal = $31.0
+| SubTotal = $36.3
 |-----------------------------------------|
 |                                         |
-|  1.0 Grapes @ $4.95 =  4.95
-| SubTotal = $35.95
-|-----------------------------------------|
-|                                         |
-|  6.0 Grapes @ $4.95 = 29.70
-| SubTotal = $65.65
+|  1.0 Flowers @ $4.5 =  4.50
+| SubTotal = $40.8
 |-----------------------------------------|
 |-----------------------------------------|
 |                                         |
-|     Total = $65.65                     
+|     Total = $40.8                     
 |                                         |
 |-----------------------------------------|
 

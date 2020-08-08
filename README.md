@@ -5,9 +5,7 @@ How to run Point Of Sale System for the grocery store.
 
 **Step 1.)** The POS system begins by outputting an Inventory Report in a text file named InventoryReportOutput.txt. The report contains the grocery store’s initial inventory.
 
-![step 1]([https://raw.githubusercontent.com/heathermortensen/POS/master/images/image%201%20program%20output.png](https://raw.githubusercontent.com/heathermortensen/POS/master/images/image 1 program output.png))
-
-
+![](https://raw.githubusercontent.com/heathermortensen/POS/master/images/image_1_program_output.png)
 
 **Step 2.)** The cashier is prompted to enter their credentials. The following credentials will be accepted by the system.
 
@@ -18,8 +16,16 @@ How to run Point Of Sale System for the grocery store.
 | mort0048 | mK167B   |
 | zho1751  | 135B     |
 
-![login image 3](https://raw.githubusercontent.com/heathermortensen/POS/master/images/image_2_program_output.png)
+![](https://raw.githubusercontent.com/heathermortensen/POS/master/images/image_2_program_output.png)
 
 
 
-Step 3.) 
+Step 3.) The user can enter ___ to view the store inventory.
+
+
+
+Step 4.) The user can enter ___ to begin checking out a customer.
+
+Step 5.) Checkout proceeds by entering a cycle of barcode numbers, followed by the quantity of each item checked out.
+
+Step 6.) 

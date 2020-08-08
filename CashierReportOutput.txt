@@ -12,7 +12,7 @@ Employee Sale ID: 0
 ----------------------------------------
 Register ID = 1
 Register 1 has employee mort0048 currently logged on.
-Log on time: 13:19:12.079
+Log on time: 00:26:37.706
 
 Current Session ID = 0 (Current Size of Session Array = 10)
 Current Sale ID = 0 (Current Size of Sales Array = 10)
