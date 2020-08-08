@@ -34,6 +34,8 @@ Step 5.) Here we see that the initial sale of the day on register #1 has conclud
 
 ![](https://raw.githubusercontent.com/heathermortensen/POS/master/images/image_5_program_output.png)
 
-Step 6.) 
 
-![]()
+
+![conclusion of a sale](https://raw.githubusercontent.com/heathermortensen/POS/master/images/image_6_program_output.png)
+
+Step 6.) 
