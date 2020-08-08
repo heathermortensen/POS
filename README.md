@@ -42,6 +42,6 @@ The cashier logs in. Then, selects from a menu of options.
 
 There are several reports created during this process. They include: 1.) A cashier report; 2.) A cash register report; and, 3.) An Inventory report. When inventory dips below a specified threshold, the system generates a flag to prompt the store to reorder stock.
 
-A Cash Register report is shown here. It is generated in the file named CashRegisterReport.txt.
+A cash register report is shown here. It is generated in the file named CashRegisterReport.txt.
 
 ![Cash Register report](https://github.com/heathermortensen/POS/blob/master/images/image_7_program_output.png)
