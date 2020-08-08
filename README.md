@@ -18,7 +18,7 @@ How to run Point Of Sale System for the grocery store.
 | mort0048 | mK167B   |
 | zho1751  | 135B     |
 
-![login image 3](https://raw.githubusercontent.com/heathermortensen/POS/master/images/image 2 programd output.png)
+![login image 3](https://raw.githubusercontent.com/heathermortensen/POS/master/images/image_2_program_output.png)
 
 
 
